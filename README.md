@@ -1,4 +1,8 @@
-# Hi there 👋
+# 👋 Hi, I'm haruto356!
+
+## Profile
+I'm a university student studying computer science.  
+I'm learning C and Java at school, and teaching myself other programming languages.
 
 ## Skills
 ![My Skills](https://skillicons.dev/icons?i=c,cpp,html,css,js,java,dart,flutter)
@@ -8,7 +12,10 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=haruto356&theme=dark&layout=donut)
 
 ## Projects
-![](https://github-readme-stats.vercel.app/api/pin/?username=haruto356&repo=GuideSignGenerator)
+![](https://github-readme-stats.vercel.app/api/pin/?username=haruto356&repo=GuideSignGenerator)  
+This project is a generator that creates Japanese guide signs.  
+Website: https://haruto356.github.io/GuideSignGenerator/
+
 <!--
 **haruto356/haruto356** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
