@@ -1,4 +1,12 @@
-## Hi there 👋
+# Hi there 👋
+
+## Skills
+![Static Badge](https://img.shields.io/badge/C-blue?logo=c)
+![Static Badge](https://img.shields.io/badge/C%2B%2B-blue?logo=c%2B%2B)
+![Static Badge](https://img.shields.io/badge/HTML-gray?logo=html5)
+![Static Badge](https://img.shields.io/badge/CSS-blue?logo=css)
+![Static Badge](https://img.shields.io/badge/JavaScript-orange?logo=javascript)
+![Static Badge](https://img.shields.io/badge/Flutter-blue?logo=flutter)
 
 <!--
 **haruto356/haruto356** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
