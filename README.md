@@ -1,13 +1,14 @@
 # Hi there 👋
 
 ## Skills
-![Static Badge](https://img.shields.io/badge/C-blue?logo=c)
-![Static Badge](https://img.shields.io/badge/C%2B%2B-blue?logo=c%2B%2B)
-![Static Badge](https://img.shields.io/badge/HTML-gray?logo=html5)
-![Static Badge](https://img.shields.io/badge/CSS-blue?logo=css)
-![Static Badge](https://img.shields.io/badge/JavaScript-orange?logo=javascript)
-![Static Badge](https://img.shields.io/badge/Flutter-blue?logo=flutter)
+![My Skills](https://skillicons.dev/icons?i=c,cpp,html,css,js,java,dart,flutter)
 
+## Stats
+![](https://github-readme-stats.vercel.app/api?username=haruto356&show_icons=true&theme=dark)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=haruto356&theme=dark&layout=donut)
+
+## Projects
+![](https://github-readme-stats.vercel.app/api/pin/?username=haruto356&repo=GuideSignGenerator)
 <!--
 **haruto356/haruto356** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
