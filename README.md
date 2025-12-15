@@ -12,9 +12,12 @@ I'm learning C and Java at school, and teaching myself other programming languag
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=haruto356&theme=dark&layout=donut)
 
 ## Projects
-![](https://github-readme-stats.vercel.app/api/pin/?username=haruto356&repo=GuideSignGenerator)  
++ https://github.com/haruto356/GuideSignGenerator  
 This project is a generator that creates Japanese guide signs.  
 Website: https://haruto356.github.io/GuideSignGenerator/
+
++ https://github.com/haruto356/JRTrainPos
+This project is a simple train position viewer for JR West.
 
 <!--
 **haruto356/haruto356** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
