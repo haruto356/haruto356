@@ -16,7 +16,7 @@ I'm learning C and Java at school, and teaching myself other programming languag
 This project is a generator that creates Japanese guide signs.  
 Website: https://haruto356.github.io/GuideSignGenerator/
 
-+ https://github.com/haruto356/JRTrainPos
++ https://github.com/haruto356/JRTrainPos  
 This project is a simple train position viewer for JR West.
 
 <!--
